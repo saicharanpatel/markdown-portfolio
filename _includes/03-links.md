@@ -1,1 +1,1 @@
-[socialmedia]https://github.com/saicharanpatel/markdown-portfolio
+![socialmedia]https://github.com/saicharanpatel/markdown-portfolio
