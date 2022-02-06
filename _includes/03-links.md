@@ -1,1 +1,1 @@
-![socialmedia]https://github.com/saicharanpatel/markdown-portfolio
+![socialmedia] https://www.linkedin.com/in/kotte-sai-charan-a817281a3/
